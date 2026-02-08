@@ -1,0 +1,32 @@
+[
+    {
+        "id": "ml_ods_1",
+        "title": "Éxito en Conservación: Tigres",
+        "content": "Nepal es el primer país en duplicar su población de tigres salvajes (TX2 goal) en 2022. Esto se logró gracias a la estricta protección en parques como Chitwan y Bardia, y la participación de comunidades locales en la vigilancia.",
+        "source": "WWF / Nepal Dept. of National Parks"
+    },
+    {
+        "id": "ml_ods_2",
+        "title": "Turismo Comunitario",
+        "content": "El modelo de homestays en aldeas como Sirubari y Ghalegaon permite que los ingresos del turismo vayan directamente a las familias locales, evitando la fuga económica y fomentando la preservación cultural.",
+        "source": "Nepal Tourism Board - Homestay Guidelines"
+    },
+    {
+        "id": "ml_ods_3",
+        "title": "Gestión de Residuos en el Everest",
+        "content": "La campaña 'Sagarmatha Cleaning Campaign' ha retirado toneladas de basura de la zona de la muerte. Sin embargo, el desafío de los microplásticos en la nieve persiste, exigiendo nuevas regulaciones para expediciones.",
+        "source": "Sagarmatha Pollution Control Committee"
+    },
+    {
+        "id": "ml_ods_4",
+        "title": "Energía Hidroeléctrica y ODS 7",
+        "content": "Nepal tiene un inmenso potencial hidroeléctrico. El desarrollo de micro-hidráulicas en zonas rurales ha sido clave para llevar electricidad limpia a aldeas remotas, reduciendo la dependencia de la leña y mejorando la salud respiratoria.",
+        "source": "Alternative Energy Promotion Centre (AEPC)"
+    },
+    {
+        "id": "ml_ods_5",
+        "title": "ACAP: Un Modelo Pionero",
+        "content": "El Annapurna Conservation Area Project (ACAP) fue la primera y mayor área protegida de Nepal gestionada bajo un modelo de confianza, donde las comunidades locales gestionan los recursos naturales y los ingresos del turismo.",
+        "source": "National Trust for Nature Conservation (NTNC)"
+    }
+]

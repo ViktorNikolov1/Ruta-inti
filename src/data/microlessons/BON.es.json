@@ -1,0 +1,32 @@
+[
+    {
+        "id": "ml_bon_1",
+        "title": "La Religión Bon",
+        "content": "El Bon es la tradición espiritual indígena del Tíbet que precede a la llegada del budismo en el siglo VII. Se enfoca en la armonía con la naturaleza y los espíritus locales (Lu, Sadak). Muchas prácticas que hoy consideramos budistas tibetanas tienen raíces bonpo.",
+        "source": "Triten Norbutse Monastery"
+    },
+    {
+        "id": "ml_bon_2",
+        "title": "Muktinath: Chumig Gyatsa",
+        "content": "Para los hindúes es Muktinath (Señor de la Liberación), pero para los budistas y bonpos es Chumig Gyatsa (Cien Aguas). Es un lugar donde los cinco elementos (tierra, agua, fuego, aire, espacio) coexisten, manifestados en la llama eterna que arde sobre el agua.",
+        "source": "Muktinath Area Development Committee"
+    },
+    {
+        "id": "ml_bon_3",
+        "title": "Chamanismo en el Himalaya",
+        "content": "Los dhami-jhankris (chamanes) actúan como mediadores entre el mundo humano y el espiritual. A través del trance, diagnostican enfermedades y restablecen el equilibrio perdido. Su papel es vital en las comunidades rurales donde la medicina moderna es escasa.",
+        "source": "Anthropology of Nepal - CNAS"
+    },
+    {
+        "id": "ml_bon_4",
+        "title": "Banderas de Oración",
+        "content": "Los cinco colores de las banderas de oración (Lung ta) representan los cinco elementos: Azul (Cielo), Blanco (Aire/Nube), Rojo (Fuego), Verde (Agua) y Amarillo (Tierra). Se cuelgan en pasos de montaña para que el viento esparza las bendiciones.",
+        "source": "Dalai Lama's Teachings"
+    },
+    {
+        "id": "ml_bon_5",
+        "title": "Monte Kailash: El Eje del Mundo",
+        "content": "Aunque está en el oeste del Tíbet, el Monte Kailash es sagrado para cuatro religiones y es el origen de los grandes ríos de Asia como el Karnali (que fluye hacia Nepal). Es considerado el axis mundi, el centro espiritual del universo.",
+        "source": "Sacred Land Film Project"
+    }
+]

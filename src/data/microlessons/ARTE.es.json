@@ -1,0 +1,32 @@
+[
+    {
+        "id": "ml_art_1",
+        "title": "La Arquitectura Newar",
+        "content": "El valle de Katmandú es un museo vivo de la arquitectura Newar, famosa por sus trabajos en ladrillo rojo y madera tallada. Las ventanas 'jhyal', intrincadamente diseñadas, no solo ventilan sino que son marcos artísticos hacia la calle.",
+        "source": "UNESCO - Kathmandu Valley"
+    },
+    {
+        "id": "ml_art_2",
+        "title": "Thangkas y Paubhas",
+        "content": "Los Thangkas (tibetanos) y Paubhas (newares) son pinturas devocionales complejas. Siguen estrictas reglas iconográficas y usan pigmentos naturales de minerales molidos. Sirven como herramientas de meditación y enseñanza.",
+        "source": "Patan Museum"
+    },
+    {
+        "id": "ml_art_3",
+        "title": "La Cera Perdida",
+        "content": "Los artesanos de Patan son maestros mundiales en la técnica de la cera perdida para crear estatuas de bronce y cobre. Esta tradición se ha mantenido en las mismas familias (Shakyas) durante siglos.",
+        "source": "Lalitpur Metropolitan City"
+    },
+    {
+        "id": "ml_art_4",
+        "title": "Estupas: Arquitectura Simbólica",
+        "content": "La estupa no es solo un edificio, es un diagrama del cosmos. Los ojos de Buda pintados en las cuatro direcciones simbolizan la omnisciencia, y los 13 anillos de la aguja representan los pasos hacia la iluminación.",
+        "source": "Boudhanath Area Development Committee"
+    },
+    {
+        "id": "ml_art_5",
+        "title": "Música Dapha",
+        "content": "La música Dapha es una forma de música devocional newar que se cree es el origen de la música clásica de Nepal. Se interpreta en grupos comunitarios en las plazas y templos, preservando himnos antiguos.",
+        "source": "Kutumba / Music Museum of Nepal"
+    }
+]

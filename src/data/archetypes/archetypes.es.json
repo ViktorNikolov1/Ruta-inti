@@ -1,0 +1,182 @@
+[
+    {
+        "id": "CORREDOR",
+        "name": "Corredor",
+        "rpgPhrase": "El Cartógrafo del Corredor",
+        "description": "Exploras el Himalaya como una red de conexiones vivas. Para ti, las montañas no son barreras, sino puentes entre culturas.",
+        "narrative": "Tu viaje se centra en los valles que han servido de autopistas culturales durante milenios. Eres quien busca entender cómo fluyen las ideas, las mercancías y las creencias a través de la geografía más difícil del planeta. Tu mirada conecta el Kali Gandaki con el comercio de sal y seda, y ves en Pokhara no solo un destino turístico, sino una puerta histórica de intercambio. Tu misión es trazar el mapa invisible de las relaciones humanas que tejen la diversidad de Nepal.",
+        "values": [
+            "Conexión",
+            "Intercambio",
+            "Movimiento"
+        ],
+        "itineraryLayers": {
+            "culture": [
+                "Antiguas rutas de comercio",
+                "Pokhara como gateway"
+            ],
+            "spirituality": [
+                "Sincretismo en los caminos"
+            ],
+            "resilience": [
+                "Adaptación al tránsito"
+            ],
+            "art": [
+                "Arte transportable"
+            ],
+            "sustainability": [
+                "Turismo como flujo consciente"
+            ]
+        }
+    },
+    {
+        "id": "NACION",
+        "name": "Nación",
+        "rpgPhrase": "El Cronista de la Unificación",
+        "description": "Buscas el origen de la identidad nepalí. Te fascina cómo un mosaico de reinos se convirtió en una nación unida.",
+        "narrative": "Caminas siguiendo los pasos de la historia política y social. Desde la unificación de Prithvi Narayan Shah hasta la república federal actual, tu interés reside en las estructuras de poder y la identidad compartida. Gorkha es tu punto de partida conceptual. Mientras otros ven paisajes, tú ves fronteras, tratados y la inmensa tarea de gobernar la diversidad. Tu viaje es una crónica de cómo se construye un país entre gigantes.",
+        "values": [
+            "Historia",
+            "Identidad",
+            "Estructura"
+        ],
+        "itineraryLayers": {
+            "culture": [
+                "Gorkha",
+                "Plazas Durbar"
+            ],
+            "spirituality": [
+                "Religión de estado"
+            ],
+            "resilience": [
+                "Unidad en la diversidad"
+            ],
+            "art": [
+                "Arquitectura monumental"
+            ],
+            "sustainability": [
+                "Gestión territorial"
+            ]
+        }
+    },
+    {
+        "id": "BON",
+        "name": "Bon",
+        "rpgPhrase": "La Persona de los Tres Fuegos",
+        "description": "Sientes la energía de la tierra y lo sagrado. Buscas lo que existía antes de los nombres modernos.",
+        "narrative": "Tu ruta es interior tanto como exterior. Te atrae el misterio del Bon y el budismo antiguo, la vibración de lugares como Muktinath donde los elementos convergen. No buscas solo ver, sino sentir. Evitas la folclorización superficial; quieres entender los rituales como tecnologías de la consciencia. Para ti, el Himalaya es un templo a cielo abierto donde cada piedra y cada río tienen una voz que estás dispuesto a escuchar.",
+        "values": [
+            "Espiritualidad",
+            "Profundidad",
+            "Naturaleza Sagrada"
+        ],
+        "itineraryLayers": {
+            "culture": [
+                "Monasterios antiguos"
+            ],
+            "spirituality": [
+                "Muktinath",
+                "Ritos Bon"
+            ],
+            "resilience": [
+                "Fe como resistencia"
+            ],
+            "art": [
+                "Simbolismo sagrado"
+            ],
+            "sustainability": [
+                "Respeto a la tierra sagrada"
+            ]
+        }
+    },
+    {
+        "id": "RESILIENCIA",
+        "name": "Resiliencia",
+        "rpgPhrase": "El Sensor de Resiliencia",
+        "description": "Entiendes que la belleza del Himalaya convive con su furia. Valoras la capacidad de recuperación ante la adversidad.",
+        "narrative": "Miras el paisaje y ves las cicatrices del terremoto de 2015, pero sobre todo ves la fuerza de quienes reconstruyeron sus vidas. Tu viaje es un testimonio de la adaptación humana ante fuerzas geológicas inmensas. Te interesan los datos, la geología y las historias de supervivencia. No ignoras el riesgo; lo estudias para aprender cómo las comunidades transforman el desastre en una nueva oportunidad de vida.",
+        "values": [
+            "Adaptación",
+            "Fuerza",
+            "Realidad"
+        ],
+        "itineraryLayers": {
+            "culture": [
+                "Comunidades reconstruidas"
+            ],
+            "spirituality": [
+                "Esperanza renacida"
+            ],
+            "resilience": [
+                "Zonas de terremoto 2015",
+                "Deslizamientos"
+            ],
+            "art": [
+                "Arte de la memoria"
+            ],
+            "sustainability": [
+                "Construcción segura"
+            ]
+        }
+    },
+    {
+        "id": "ARTE",
+        "name": "Arte",
+        "rpgPhrase": "La Conservadora de Trazos",
+        "description": "Para ti, la cultura es un texto visual que debe ser leído y preservado. El arte es la memoria de los pueblos.",
+        "narrative": "Tu expedición es un laboratorio visual. Te detienes en los detalles de una ventana newar, en los pigmentos de un paubha o en la caligrafía de un manuscrito. Entiendes que el patrimonio no es solo piedra, sino conocimiento vivo transmitido por artesanos. Tu misión es documentar y valorar la estética que define a estas culturas, entendiendo el arte como el lenguaje más profundo y duradero de la civilización himalaya.",
+        "values": [
+            "Estética",
+            "Memoria",
+            "Detalle"
+        ],
+        "itineraryLayers": {
+            "culture": [
+                "Talleres de Patan"
+            ],
+            "spirituality": [
+                "Iconografía"
+            ],
+            "resilience": [
+                "Restauración patrimonial"
+            ],
+            "art": [
+                "Museos vivos",
+                "Arquitectura Newar"
+            ],
+            "sustainability": [
+                "Oficios tradicionales"
+            ]
+        }
+    },
+    {
+        "id": "ODS",
+        "name": "ODS",
+        "rpgPhrase": "El Guardián ODS",
+        "description": "Viajas con una misión: asegurar que el futuro sea viable. Te importan las personas y el medio ambiente por igual.",
+        "narrative": "Eres el viajero consciente del siglo XXI. Tu foco está en la Agenda 2030, la conservación de la biodiversidad en Chitwan o Annapurna, y el impacto del turismo en las comunidades locales. No eres un espectador pasivo; buscas soluciones, proyectos comunitarios y formas de viajar que regeneren en lugar de consumir. Tu ruta es un mapa de buenas prácticas y esperanza para un desarrollo sostenible en el techo del mundo.",
+        "values": [
+            "Sostenibilidad",
+            "Comunidad",
+            "Futuro"
+        ],
+        "itineraryLayers": {
+            "culture": [
+                "Turismo comunitario"
+            ],
+            "spirituality": [
+                "Ética del cuidado"
+            ],
+            "resilience": [
+                "Adaptación climática"
+            ],
+            "art": [
+                "Artesanía justa"
+            ],
+            "sustainability": [
+                "Proyectos de conservación",
+                "Áreas protegidas"
+            ]
+        }
+    }
+]

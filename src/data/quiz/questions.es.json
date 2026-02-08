@@ -1,0 +1,429 @@
+[
+    {
+        "id": "q1",
+        "text": "¿Qué buscas al iniciar un viaje desconocido?",
+        "options": [
+            {
+                "id": "q1_a",
+                "text": "Conectar caminos antiguos y entender cómo fluyen las culturas.",
+                "scores": {
+                    "CORREDOR": 3,
+                    "NACION": 1
+                }
+            },
+            {
+                "id": "q1_b",
+                "text": "Descubrir la historia política y el origen de los pueblos.",
+                "scores": {
+                    "NACION": 3,
+                    "CORREDOR": 1
+                }
+            },
+            {
+                "id": "q1_c",
+                "text": "Una experiencia espiritual que transforme mi visión interior.",
+                "scores": {
+                    "BON": 3,
+                    "ARTE": 1
+                }
+            },
+            {
+                "id": "q1_d",
+                "text": "Aportar a la comunidad y asegurar que mi huella sea positiva.",
+                "scores": {
+                    "ODS": 3,
+                    "RESILIENCIA": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "q2",
+        "text": "Ante una dificultad o crisis en la ruta, tu reacción es...",
+        "options": [
+            {
+                "id": "q2_a",
+                "text": "Analizar los riesgos y buscar la ruta más segura y lógica.",
+                "scores": {
+                    "RESILIENCIA": 3,
+                    "ODS": 1
+                }
+            },
+            {
+                "id": "q2_b",
+                "text": "Observar cómo lo resuelven los locales y aprender de su adaptación.",
+                "scores": {
+                    "RESILIENCIA": 2,
+                    "CORREDOR": 2
+                }
+            },
+            {
+                "id": "q2_c",
+                "text": "Documentarlo creativamente para que no se olvide.",
+                "scores": {
+                    "ARTE": 3,
+                    "NACION": 1
+                }
+            },
+            {
+                "id": "q2_d",
+                "text": "Confiar en el proceso y buscar el sentido profundo del obstáculo.",
+                "scores": {
+                    "BON": 3
+                }
+            }
+        ]
+    },
+    {
+        "id": "q3",
+        "text": "¿Qué elemento del paisaje te llama más la atención?",
+        "options": [
+            {
+                "id": "q3_a",
+                "text": "Un antiguo monasterio vibrando con cánticos.",
+                "scores": {
+                    "BON": 3,
+                    "ARTE": 1
+                }
+            },
+            {
+                "id": "q3_b",
+                "text": "Las terrazas de cultivo que sostienen a las aldeas.",
+                "scores": {
+                    "ODS": 3,
+                    "CORREDOR": 1
+                }
+            },
+            {
+                "id": "q3_c",
+                "text": "Las cicatrices de la tierra que cuentan historias de supervivencia.",
+                "scores": {
+                    "RESILIENCIA": 3,
+                    "NACION": 1
+                }
+            },
+            {
+                "id": "q3_d",
+                "text": "Los detalles arquitectónicos de una plaza real.",
+                "scores": {
+                    "ARTE": 3,
+                    "NACION": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": "q4",
+        "text": "Para ti, la historia se preserva mejor...",
+        "options": [
+            {
+                "id": "q4_a",
+                "text": "En los libros y crónicas oficiales de los reinos.",
+                "scores": {
+                    "NACION": 3
+                }
+            },
+            {
+                "id": "q4_b",
+                "text": "En las rutas de comercio que unen regiones lejanas.",
+                "scores": {
+                    "CORREDOR": 3
+                }
+            },
+            {
+                "id": "q4_c",
+                "text": "En el arte, los símbolos y la escritura sagrada.",
+                "scores": {
+                    "ARTE": 3,
+                    "BON": 1
+                }
+            },
+            {
+                "id": "q4_d",
+                "text": "En la memoria viva de cómo la gente reconstruye sus hogares.",
+                "scores": {
+                    "RESILIENCIA": 3,
+                    "ODS": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "q5",
+        "text": "¿Qué te llevarías de Nepal como aprendizaje principal?",
+        "options": [
+            {
+                "id": "q5_a",
+                "text": "La capacidad de vivir en armonía con una naturaleza extrema.",
+                "scores": {
+                    "ODS": 3,
+                    "RESILIENCIA": 1
+                }
+            },
+            {
+                "id": "q5_b",
+                "text": "La rica mezcla de religiones y filosofías de vida.",
+                "scores": {
+                    "BON": 3,
+                    "CORREDOR": 1
+                }
+            },
+            {
+                "id": "q5_c",
+                "text": "La estética única de sus templos y su arte newar.",
+                "scores": {
+                    "ARTE": 3
+                }
+            },
+            {
+                "id": "q5_d",
+                "text": "Cómo se formó la identidad de un país tan diverso.",
+                "scores": {
+                    "NACION": 3
+                }
+            }
+        ]
+    },
+    {
+        "id": "q6",
+        "text": "Si pudieras entrevistar a alguien del pasado de Nepal, ¿a quién elegirías?",
+        "options": [
+            {
+                "id": "q6_a",
+                "text": "A Prithvi Narayan Shah, el unificador.",
+                "scores": {
+                    "NACION": 3
+                }
+            },
+            {
+                "id": "q6_b",
+                "text": "A un antiguo comerciante de sal de la ruta al Tíbet.",
+                "scores": {
+                    "CORREDOR": 3
+                }
+            },
+            {
+                "id": "q6_c",
+                "text": "A un maestro artesano de estatuas de bronce.",
+                "scores": {
+                    "ARTE": 3
+                }
+            },
+            {
+                "id": "q6_d",
+                "text": "A un chamán Bon de las tierras altas.",
+                "scores": {
+                    "BON": 3
+                }
+            }
+        ]
+    },
+    {
+        "id": "q7",
+        "text": "¿Cuál es tu enfoque sobre la sostenibilidad?",
+        "options": [
+            {
+                "id": "q7_a",
+                "text": "Es vital proteger la biodiversidad y gestionar los residuos.",
+                "scores": {
+                    "ODS": 3
+                }
+            },
+            {
+                "id": "q7_b",
+                "text": "La sostenibilidad es también cultural, mantener vivas las tradiciones.",
+                "scores": {
+                    "ARTE": 2,
+                    "CORREDOR": 1
+                }
+            },
+            {
+                "id": "q7_c",
+                "text": "Construir infraestructuras que resistan el cambio climático.",
+                "scores": {
+                    "RESILIENCIA": 3
+                }
+            },
+            {
+                "id": "q7_d",
+                "text": "El equilibrio espiritual es la base de la sostenibilidad.",
+                "scores": {
+                    "BON": 2,
+                    "ODS": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "q8",
+        "text": "Te encuentras en Pokhara frente al lago, ¿qué piensas?",
+        "options": [
+            {
+                "id": "q8_a",
+                "text": "Es un punto de conexión entre las montañas y el valle.",
+                "scores": {
+                    "CORREDOR": 3
+                }
+            },
+            {
+                "id": "q8_b",
+                "text": "Qué vulnerables somos ante la fuerza geológica del Himalaya.",
+                "scores": {
+                    "RESILIENCIA": 3
+                }
+            },
+            {
+                "id": "q8_c",
+                "text": "Es un lugar perfecto para meditar sobre el reflejo del Machapuchare.",
+                "scores": {
+                    "BON": 3
+                }
+            },
+            {
+                "id": "q8_d",
+                "text": "Cómo el turismo impacta este ecosistema lacustre.",
+                "scores": {
+                    "ODS": 3
+                }
+            }
+        ]
+    },
+    {
+        "id": "q9",
+        "text": "La identidad de un pueblo se define por...",
+        "options": [
+            {
+                "id": "q9_a",
+                "text": "Sus fronteras y su gobierno unificado.",
+                "scores": {
+                    "NACION": 3
+                }
+            },
+            {
+                "id": "q9_b",
+                "text": "Su expresión artística y su lenguaje simbólico.",
+                "scores": {
+                    "ARTE": 3
+                }
+            },
+            {
+                "id": "q9_c",
+                "text": "Su capacidad de levantarse tras la tragedia.",
+                "scores": {
+                    "RESILIENCIA": 3
+                }
+            },
+            {
+                "id": "q9_d",
+                "text": "Sus rituales y su conexión con lo sagrado.",
+                "scores": {
+                    "BON": 3
+                }
+            }
+        ]
+    },
+    {
+        "id": "q10",
+        "text": "¿Qué tipo de 'mapa' te gustaría trazar?",
+        "options": [
+            {
+                "id": "q10_a",
+                "text": "Un mapa de riesgos y zonas seguras.",
+                "scores": {
+                    "RESILIENCIA": 3
+                }
+            },
+            {
+                "id": "q10_b",
+                "text": "Un mapa de rutas comerciales y flujos migratorios.",
+                "scores": {
+                    "CORREDOR": 3
+                }
+            },
+            {
+                "id": "q10_c",
+                "text": "Un mapa de sitios sagrados y energéticos.",
+                "scores": {
+                    "BON": 3
+                }
+            },
+            {
+                "id": "q10_d",
+                "text": "Un mapa de proyectos de conservación comunitaria.",
+                "scores": {
+                    "ODS": 3
+                }
+            }
+        ]
+    },
+    {
+        "id": "q11",
+        "text": "Al visitar un museo, te detienes más en...",
+        "options": [
+            {
+                "id": "q11_a",
+                "text": "Las armas y tratados de los antiguos reyes.",
+                "scores": {
+                    "NACION": 3
+                }
+            },
+            {
+                "id": "q11_b",
+                "text": "Las pinturas Thangka y las esculturas.",
+                "scores": {
+                    "ARTE": 3
+                }
+            },
+            {
+                "id": "q11_c",
+                "text": "Los mapas antiguos y objetos de viaje.",
+                "scores": {
+                    "CORREDOR": 3
+                }
+            },
+            {
+                "id": "q11_d",
+                "text": "Fotos de la vida cotidiana y la resiliencia local.",
+                "scores": {
+                    "RESILIENCIA": 2,
+                    "ODS": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "q12",
+        "text": "¿Cuál es tu lema para este viaje?",
+        "options": [
+            {
+                "id": "q12_a",
+                "text": "Conocer el pasado para entender el presente.",
+                "scores": {
+                    "NACION": 3
+                }
+            },
+            {
+                "id": "q12_b",
+                "text": "Viajar ligero, dejar solo huellas.",
+                "scores": {
+                    "ODS": 3
+                }
+            },
+            {
+                "id": "q12_c",
+                "text": "El camino es la meta.",
+                "scores": {
+                    "CORREDOR": 3,
+                    "BON": 1
+                }
+            },
+            {
+                "id": "q12_d",
+                "text": "La belleza está en los detalles y la memoria.",
+                "scores": {
+                    "ARTE": 3
+                }
+            }
+        ]
+    }
+]

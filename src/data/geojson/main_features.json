@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.3045,
+                    27.7042
+                ]
+            },
+            "properties": {
+                "id": "unesco_1",
+                "name": "Kathmandu Durbar Square",
+                "description": "Antigua residencia de los reyes Malla y Shah.",
+                "layerType": "UNESCO",
+                "sourceId": "src_unesco",
+                "recommendedThemes": [
+                    "NACION",
+                    "ARTE"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.3253,
+                    27.6728
+                ]
+            },
+            "properties": {
+                "id": "unesco_2",
+                "name": "Patan Durbar Square",
+                "description": "Obra maestra de la arquitectura Newar.",
+                "layerType": "UNESCO",
+                "sourceId": "src_unesco",
+                "recommendedThemes": [
+                    "ARTE"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.4293,
+                    27.6722
+                ]
+            },
+            "properties": {
+                "id": "unesco_3",
+                "name": "Bhaktapur Durbar Square",
+                "description": "Conocida como la 'Ciudad de los Devotos'.",
+                "layerType": "UNESCO",
+                "sourceId": "src_unesco",
+                "recommendedThemes": [
+                    "ARTE",
+                    "CORREDOR"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.1826,
+                    28.3297
+                ]
+            },
+            "properties": {
+                "id": "trek_1",
+                "name": "Annapurna Gateway (Pokhara)",
+                "description": "Punto de inicio para múltiples rutas de trekking.",
+                "layerType": "TREK",
+                "sourceId": "src_ntb",
+                "recommendedThemes": [
+                    "CORREDOR"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.8706,
+                    28.8164
+                ]
+            },
+            "properties": {
+                "id": "trek_2",
+                "name": "Muktinath",
+                "description": "Templo sagrado para hindúes y budistas.",
+                "layerType": "TREK",
+                "sourceId": "src_ntb",
+                "recommendedThemes": [
+                    "BON"
+                ]
+            }
+        }
+    ]
+}

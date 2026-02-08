@@ -1,0 +1,38 @@
+[
+    {
+        "id": "src_unesco",
+        "organization": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/statesparties/np",
+        "type": "Dataset",
+        "description": "Lista oficial de sitios patrimonio de la humanidad en Nepal y lista tentativa."
+    },
+    {
+        "id": "src_ntb",
+        "organization": "Nepal Tourism Board",
+        "url": "https://ntb.gov.np/",
+        "type": "Report",
+        "description": "Datos oficiales sobre turismo, permisos y regulaciones de trekking (TIMS)."
+    },
+    {
+        "id": "src_usgs",
+        "organization": "USGS (United States Geological Survey)",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20002926/executive",
+        "type": "Map",
+        "description": "Datos científicos sobre el terremoto de Gorkha 2015."
+    },
+    {
+        "id": "src_icimod",
+        "organization": "ICIMOD",
+        "url": "https://www.icimod.org/",
+        "type": "Report",
+        "description": "Centro Internacional para el Desarrollo Integrado de las Montañas - Datos sobre clima y glaciares."
+    },
+    {
+        "id": "src_osm",
+        "organization": "OpenStreetMap Contributors",
+        "url": "https://www.openstreetmap.org/copyright",
+        "type": "Map",
+        "license": "ODbL",
+        "description": "Datos base del mapa y localizaciones geográficas."
+    }
+]

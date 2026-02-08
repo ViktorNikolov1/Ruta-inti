@@ -1,0 +1,80 @@
+[
+    {
+        "theme": "CORREDOR",
+        "highlights": [
+            "Kali Gandaki Gorge",
+            "Pokhara Old Bazaar",
+            "Lo Manthang (Referencia)"
+        ],
+        "caution": "Muchas rutas antiguas son ahora carreteras; busca los senderos alternativos.",
+        "mapLayerIds": [
+            "trek_routes",
+            "trade_routes"
+        ]
+    },
+    {
+        "theme": "NACION",
+        "highlights": [
+            "Gorkha Durbar",
+            "Basantapur Durbar Square (Kathmandu)",
+            "Nuwakot"
+        ],
+        "caution": "Respeta las zonas restringidas en monumentos nacionales.",
+        "mapLayerIds": [
+            "unesco_sites",
+            "historical_forts"
+        ]
+    },
+    {
+        "theme": "BON",
+        "highlights": [
+            "Muktinath Temple",
+            "Lumbini (Referencia)",
+            "Monasterios de Mustang"
+        ],
+        "caution": "Pide permiso antes de entrar a zonas sagradas o fotografiar ceremonias.",
+        "mapLayerIds": [
+            "sacred_sites",
+            "unesco_sites"
+        ]
+    },
+    {
+        "theme": "RESILIENCIA",
+        "highlights": [
+            "Barpak (Epicentro 2015)",
+            "Langtang Valley",
+            "Proyectos de reconstrucción"
+        ],
+        "caution": "Zonas propensas a deslizamientos; consulta siempre el estado del clima.",
+        "mapLayerIds": [
+            "earthquake_2015",
+            "risk_zones"
+        ]
+    },
+    {
+        "theme": "ARTE",
+        "highlights": [
+            "Patan Museum",
+            "Bhaktapur Pottery Square",
+            "Taller de Thangkas"
+        ],
+        "caution": "No toques arte antiguo ni compres antigüedades sin certificación.",
+        "mapLayerIds": [
+            "unesco_sites",
+            "art_hubs"
+        ]
+    },
+    {
+        "theme": "ODS",
+        "highlights": [
+            "Chitwan National Park",
+            "Annapurna Conservation Area Project (ACAP)",
+            "Homestays comunitarios"
+        ],
+        "caution": "Minimiza plásticos y respeta la fauna salvaje; mantén distancia.",
+        "mapLayerIds": [
+            "biodiversity",
+            "protected_areas"
+        ]
+    }
+]

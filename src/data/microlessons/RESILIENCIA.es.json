@@ -1,0 +1,32 @@
+[
+    {
+        "id": "ml_res_1",
+        "title": "El Terremoto de Gorkha 2015",
+        "content": "El 25 de abril de 2015, un sismo de magnitud 7.8 sacudió Nepal, con epicentro cerca de Barpak (Gorkha). Causó cerca de 9,000 muertes y destruyó miles de hogares y templos milenarios. Fue el peor desastre natural en Nepal desde 1934.",
+        "source": "USGS / Nepal Risk Reduction Portal"
+    },
+    {
+        "id": "ml_res_2",
+        "title": "Reconstruir Mejor (Build Back Better)",
+        "content": "La reconstrucción post-terremoto se centró en técnicas sismo-resistentes, mezclando ingeniería moderna con materiales locales. La formación de albañiles locales fue clave para asegurar que las nuevas casas resistieran futuros temblores.",
+        "source": "National Reconstruction Authority (NRA)"
+    },
+    {
+        "id": "ml_res_3",
+        "title": "Glaciares en Retroceso",
+        "content": "El Himalaya es el 'tercer polo' del mundo. El cambio climático está acelerando el derretimiento de los glaciares, aumentando el riesgo de inundaciones por desborde de lagos glaciares (GLOF) como el Tsho Rolpa.",
+        "source": "ICIMOD - Cryosphere Report"
+    },
+    {
+        "id": "ml_res_4",
+        "title": "Agricultura de Montaña",
+        "content": "La agricultura en terrazas no es solo estética; es una técnica de ingeniería para prevenir la erosión del suelo en pendientes pronunciadas y maximizar el uso del agua de lluvia.",
+        "source": "FAO - Globally Important Agricultural Heritage Systems"
+    },
+    {
+        "id": "ml_res_5",
+        "title": "Resiliencia Comunitaria",
+        "content": "Tras el terremoto, la respuesta inmediata de las comunidades locales fue más rápida que la ayuda internacional. El sistema de 'Aicho-Paicho' (intercambio y ayuda mutua) fue fundamental para la supervivencia en los primeros días.",
+        "source": "Red Cross / Humanitarian Reports"
+    }
+]
